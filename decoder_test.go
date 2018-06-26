@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/cupcake/rdb"
+	"github.com/seblopezcot/rdb"
 	. "gopkg.in/check.v1"
 )
 

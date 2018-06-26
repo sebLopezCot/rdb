@@ -13,5 +13,5 @@ This package was heavily inspired by
 ## Installation
 
 ```
-go get github.com/cupcake/rdb
+go get github.com/seblopezcot/rdb
 ```
